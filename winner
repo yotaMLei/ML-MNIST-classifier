@@ -1,0 +1,19 @@
+C:\Users\yotam\Anaconda3\envs\Intro_to_ML_ex4\python.exe C:/Users/yotam/PycharmProjects/ML_ex4/submission/ML_ex4_submission.py
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size 1 = 0.05
+       threshold = 0.0005
+Number of steps until convergence = 18 steps
+Final training accuracy: 0.915047619047619
+Final validation accuracy: 0.9040714285714285
+Final test accuracy: 0.9054285714285715
+
+C:\Users\yotam\Anaconda3\envs\Intro_to_ML_ex4\python.exe C:/Users/yotam/PycharmProjects/ML_ex4/submission/ML_ex4_submission.py
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.05
+       threshold = 0.0005
+Number of steps until convergence = 16 steps
+Final training accuracy: 0.9133333333333333
+Final validation accuracy: 0.9025714285714286
+Final test accuracy: 0.9112857142857143

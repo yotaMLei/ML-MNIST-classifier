@@ -1,0 +1,260 @@
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0003
+Number of steps until convergence = 17 
+Final training accuracy: 91.41428571428571 
+Final validation accuracy: 90.55 
+Final test accuracy: 90.63571428571429
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0001
+Number of steps until convergence = 41 
+Final training accuracy: 91.17619047619047 
+Final validation accuracy: 90.07857142857144 
+Final test accuracy: 89.58571428571429
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.01
+Number of steps until convergence = 6 
+Final training accuracy: 87.83095238095238 
+Final validation accuracy: 87.79285714285714 
+Final test accuracy: 87.82857142857144
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.001
+Number of steps until convergence = 17 
+Final training accuracy: 91.4047619047619 
+Final validation accuracy: 90.26428571428572 
+Final test accuracy: 90.69285714285714
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0005
+Number of steps until convergence = 15 
+Final training accuracy: 91.23333333333333 
+Final validation accuracy: 90.40714285714286 
+Final test accuracy: 89.9857142857143
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0003
+Number of steps until convergence = 14 
+Final training accuracy: 90.33333333333333 
+Final validation accuracy: 89.41428571428571 
+Final test accuracy: 89.47857142857143
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0002
+Number of steps until convergence = 30 
+Final training accuracy: 91.61190476190477 
+Final validation accuracy: 90.42857142857143 
+Final test accuracy: 90.95
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.001
+       threshold = 0.0002
+Number of steps until convergence = 32 
+Final training accuracy: 91.94285714285715 
+Final validation accuracy: 90.51428571428572 
+Final test accuracy: 90.48571428571428
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0003
+Number of steps until convergence = 37 
+Final training accuracy: 87.77380952380952 
+Final validation accuracy: 87.2 
+Final test accuracy: 87.22142857142858
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.005
+       threshold = 0.0003
+Number of steps until convergence = 19 
+Final training accuracy: 91.42142857142858 
+Final validation accuracy: 90.87142857142857 
+Final test accuracy: 90.38571428571429
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0002
+Number of steps until convergence = 20 
+Final training accuracy: 91.38571428571429 
+Final validation accuracy: 90.59285714285714 
+Final test accuracy: 90.65714285714286
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0001
+Number of steps until convergence = 44 
+Final training accuracy: 88.63333333333333 
+Final validation accuracy: 87.84285714285714 
+Final test accuracy: 87.93571428571428
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0003
+Number of steps until convergence = 30 
+Final training accuracy: 91.76666666666667 
+Final validation accuracy: 90.39285714285714 
+Final test accuracy: 90.62857142857142
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0002
+Number of steps until convergence = 82 
+Final training accuracy: 92.92857142857143 
+Final validation accuracy: 90.86428571428571 
+Final test accuracy: 90.72857142857143
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0003
+Number of steps until convergence = 18 
+Final training accuracy: 91.7 
+Final validation accuracy: 90.32857142857142 
+Final test accuracy: 90.35
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0005
+Number of steps until convergence = 27 
+Final training accuracy: 91.46428571428571 
+Final validation accuracy: 90.2 
+Final test accuracy: 90.40714285714286
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0003
+Number of steps until convergence = 27 
+Final training accuracy: 91.54523809523809 
+Final validation accuracy: 90.90714285714286 
+Final test accuracy: 90.83571428571429
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.05
+       threshold = 0.0003
+Number of steps until convergence = 32 
+Final training accuracy: 91.6047619047619 
+Final validation accuracy: 90.69285714285714 
+Final test accuracy: 90.55714285714286
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.05
+       threshold = 0.0008
+Number of steps until convergence = 10 
+Final training accuracy: 89.83571428571429 
+Final validation accuracy: 89.53571428571429 
+Final test accuracy: 89.44285714285715
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.05
+       threshold = 0.0005
+Number of steps until convergence = 15 
+Final training accuracy: 90.99285714285715 
+Final validation accuracy: 90.07142857142857 
+Final test accuracy: 90.40714285714286
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0003
+Number of steps until convergence = 28 
+Final training accuracy: 91.9452380952381 
+Final validation accuracy: 90.7 
+Final test accuracy: 90.28571428571428
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.09
+       threshold = 0.0005
+Number of steps until convergence = 15 
+Final training accuracy: 91.12857142857142 
+Final validation accuracy: 90.18571428571428 
+Final test accuracy: 90.05714285714286
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.01
+       threshold = 0.0005
+Number of steps until convergence = 18 
+Final training accuracy: 91.24047619047619 
+Final validation accuracy: 90.48571428571428 
+Final test accuracy: 90.4
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.02
+       threshold = 0.0005
+Number of steps until convergence = 15 
+Final training accuracy: 91.06904761904761 
+Final validation accuracy: 90.35 
+Final test accuracy: 90.30714285714285
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.05
+       threshold = 0.0005
+Number of steps until convergence = 30 
+Final training accuracy: 91.94285714285715 
+Final validation accuracy: 90.47857142857143 
+Final test accuracy: 90.42857142857143
+
+
+**** MNIST Multiclass Logistic Regression Results ****
+Hyper-parameters :
+       step size = 0.05
+       threshold = 0.0005
+Number of steps until convergence = 18 
+Final training accuracy: 91.5047619047619 
+Final validation accuracy: 90.40714285714286 
+Final test accuracy: 90.54285714285714
+
+
